@@ -1,6 +1,6 @@
 <h1 align="center" id="title">E-Learner</h1>
 
-<p align="center"><img src="https://socialify.git.ci/ExoticClub/ELearner/image?font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/ZX/ELearner/image?font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">Welcome to eLearner your gateway to a dynamic and personalized English learning experience! eLearner is an innovative project designed to empower individuals in their journey to mastering the English language. Whether you're a beginner eager to build a strong foundation or an advanced learner aiming to refine your skills eLearner provides a comprehensive and flexible platform tailored to your unique needs. Embark on your English learning journey with eLearner and unlock the doors to a world of opportunities. Whether you're pursuing academic goals professional development or simply enhancing your language skills for personal enrichment eLearner is here to support and guide you every step of the way. Start your eLearner experience today and open the door to a world of linguistic possibilities!</p>
 
